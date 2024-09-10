@@ -1,0 +1,176 @@
+{
+  "Lupe": {
+    "words": {
+      "learning": {
+        "apparitions": 40,
+        "correct_answers": 60,
+        "retention_rate": 1.5
+      },
+      "walking": {
+        "apparitions": 40,
+        "correct_answers": 60,
+        "retention_rate": 1.5
+      },
+      "certain": {
+        "apparitions": 40,
+        "correct_answers": 60,
+        "retention_rate": 1.5
+      },
+      "intricate": {
+        "apparitions": 40,
+        "correct_answers": 60,
+        "retention_rate": 1.5
+      },
+      "calculation": {
+        "apparitions": 40,
+        "correct_answers": 60,
+        "retention_rate": 1.5
+      }
+    }
+  },
+  "Michela": {
+    "words": {
+      "learning": {
+        "apparitions": 40,
+        "correct_answers": 60,
+        "retention_rate": 1.5
+      },
+      "walking": {
+        "apparitions": 40,
+        "correct_answers": 60,
+        "retention_rate": 1.5
+      },
+      "certain": {
+        "apparitions": 40,
+        "correct_answers": 60,
+        "retention_rate": 1.5
+      },
+      "intricate": {
+        "apparitions": 40,
+        "correct_answers": 60,
+        "retention_rate": 1.5
+      },
+      "calculation": {
+        "apparitions": 40,
+        "correct_answers": 60,
+        "retention_rate": 1.5
+      }
+    }
+  },
+  "berta": {
+    "words": {
+      "learning": {
+        "apparitions": 3,
+        "correct_answers": 3,
+        "retention_rate": 1
+      },
+      "walking": {
+        "apparitions": 1,
+        "correct_answers": 1,
+        "retention_rate": 1
+      },
+      "certain": {
+        "apparitions": 0,
+        "correct_answers": 0,
+        "retention_rate": 0
+      },
+      "intricate": {
+        "apparitions": 0,
+        "correct_answers": 0,
+        "retention_rate": 0
+      },
+      "calculation": {
+        "apparitions": 0,
+        "correct_answers": 0,
+        "retention_rate": 0
+      }
+    }
+  },
+  "humberto": {
+    "words": {
+      "learning": {
+        "apparitions": 6,
+        "correct_answers": 4,
+        "retention_rate": 0.6666666666666666
+      },
+      "walking": {
+        "apparitions": 6,
+        "correct_answers": 2,
+        "retention_rate": 0.3333333333333333
+      },
+      "certain": {
+        "apparitions": 4,
+        "correct_answers": 0,
+        "retention_rate": 0
+      },
+      "intricate": {
+        "apparitions": 4,
+        "correct_answers": 0,
+        "retention_rate": 0
+      },
+      "calculation": {
+        "apparitions": 4,
+        "correct_answers": 0,
+        "retention_rate": 0
+      }
+    }
+  },
+  "juana": {
+    "words": {
+      "learning": {
+        "apparitions": 1,
+        "correct_answers": 1,
+        "retention_rate": 1
+      },
+      "walking": {
+        "apparitions": 1,
+        "correct_answers": 1,
+        "retention_rate": 1
+      },
+      "certain": {
+        "apparitions": 0,
+        "correct_answers": 0,
+        "retention_rate": 0
+      },
+      "intricate": {
+        "apparitions": 0,
+        "correct_answers": 0,
+        "retention_rate": 0
+      },
+      "calculation": {
+        "apparitions": 0,
+        "correct_answers": 0,
+        "retention_rate": 0
+      }
+    }
+  },
+  "michela": {
+    "words": {
+      "learning": {
+        "apparitions": 4,
+        "correct_answers": 4,
+        "retention_rate": 1
+      },
+      "walking": {
+        "apparitions": 4,
+        "correct_answers": 3,
+        "retention_rate": 0.75
+      },
+      "certain": {
+        "apparitions": 4,
+        "correct_answers": 2,
+        "retention_rate": 0.5
+      },
+      "intricate": {
+        "apparitions": 3,
+        "correct_answers": 0,
+        "retention_rate": 0
+      },
+      "calculation": {
+        "apparitions": 3,
+        "correct_answers": 0,
+        "retention_rate": 0
+      }
+    }
+  }
+}
